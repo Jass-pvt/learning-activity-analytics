@@ -1,0 +1,242 @@
+[
+  {
+    "date_observed": "2026-10-19",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2175970042",
+      "title": "Find Target Indices After Sorting Array",
+      "title_slug": "find-target-indices-after-sorting-array",
+      "timestamp": 1792391577,
+      "status": "Accepted"
+    }
+  },
+  {
+    "date_observed": "2026-10-19",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2175183426",
+      "title": "Number of Ways to Reorder Array to Get Same BST",
+      "title_slug": "number-of-ways-to-reorder-array-to-get-same-bst",
+      "timestamp": 1792306708,
+      "status": "Accepted"
+    }
+  },
+  {
+    "date_observed": "2026-10-19",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2174656690",
+      "title": "Minimum Swaps to Sort by Digit Sum",
+      "title_slug": "minimum-swaps-to-sort-by-digit-sum",
+      "timestamp": 1792249657,
+      "status": "Accepted"
+    }
+  },
+  {
+    "date_observed": "2026-10-19",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2173711433",
+      "title": "Subarrays Distinct Element Sum of Squares II",
+      "title_slug": "subarrays-distinct-element-sum-of-squares-ii",
+      "timestamp": 1792142549,
+      "status": "Accepted"
+    }
+  },
+  {
+    "date_observed": "2026-10-19",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2172835436",
+      "title": "Subarrays Distinct Element Sum of Squares I",
+      "title_slug": "subarrays-distinct-element-sum-of-squares-i",
+      "timestamp": 1792051462,
+      "status": "Accepted"
+    }
+  },
+  {
+    "date_observed": "2026-10-19",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2171878181",
+      "title": "Maximize Sum of Squares of Digits",
+      "title_slug": "maximize-sum-of-squares-of-digits",
+      "timestamp": 1791960017,
+      "status": "Accepted"
+    }
+  },
+  {
+    "date_observed": "2026-10-19",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2170971060",
+      "title": "Maximum Alternating Sum of Squares",
+      "title_slug": "maximum-alternating-sum-of-squares",
+      "timestamp": 1791878724,
+      "status": "Accepted"
+    }
+  },
+  {
+    "date_observed": "2026-10-19",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2169855634",
+      "title": "Apply Operations on Array to Maximize Sum of Squares",
+      "title_slug": "apply-operations-on-array-to-maximize-sum-of-squares",
+      "timestamp": 1791781993,
+      "status": "Accepted"
+    }
+  },
+  {
+    "date_observed": "2026-10-19",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2169353413",
+      "title": "Sum of Squares of Special Elements ",
+      "title_slug": "sum-of-squares-of-special-elements",
+      "timestamp": 1791728823,
+      "status": "Accepted"
+    }
+  },
+  {
+    "date_observed": "2026-10-19",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2167872941",
+      "title": "Minimum Sum of Squared Difference",
+      "title_slug": "minimum-sum-of-squared-difference",
+      "timestamp": 1791612298,
+      "status": "Accepted"
+    }
+  },
+  {
+    "date_observed": "2026-10-19",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2167432947",
+      "title": "Palindrome Number",
+      "title_slug": "palindrome-number",
+      "timestamp": 1791561077,
+      "status": "Accepted"
+    }
+  },
+  {
+    "date_observed": "2026-10-19",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2167426359",
+      "title": "String to Integer (atoi)",
+      "title_slug": "string-to-integer-atoi",
+      "timestamp": 1791560635,
+      "status": "Accepted"
+    }
+  },
+  {
+    "date_observed": "2026-10-19",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2167425463",
+      "title": "Reverse Integer",
+      "title_slug": "reverse-integer",
+      "timestamp": 1791560575,
+      "status": "Accepted"
+    }
+  },
+  {
+    "date_observed": "2026-10-19",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2167424628",
+      "title": "Zigzag Conversion",
+      "title_slug": "zigzag-conversion",
+      "timestamp": 1791560521,
+      "status": "Accepted"
+    }
+  },
+  {
+    "date_observed": "2026-10-19",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2167422991",
+      "title": "Move Zeroes",
+      "title_slug": "move-zeroes",
+      "timestamp": 1791560414,
+      "status": "Accepted"
+    }
+  },
+  {
+    "date_observed": "2026-10-19",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2167422403",
+      "title": "Valid Palindrome",
+      "title_slug": "valid-palindrome",
+      "timestamp": 1791560373,
+      "status": "Accepted"
+    }
+  },
+  {
+    "date_observed": "2026-10-19",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2167419887",
+      "title": "Two Sum II - Input Array Is Sorted",
+      "title_slug": "two-sum-ii-input-array-is-sorted",
+      "timestamp": 1791560202,
+      "status": "Accepted"
+    }
+  },
+  {
+    "date_observed": "2026-10-19",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2167418452",
+      "title": "Longest Palindrome",
+      "title_slug": "longest-palindrome",
+      "timestamp": 1791560095,
+      "status": "Accepted"
+    }
+  },
+  {
+    "date_observed": "2026-10-19",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2167417597",
+      "title": "Maximum Number of Balloons",
+      "title_slug": "maximum-number-of-balloons",
+      "timestamp": 1791560033,
+      "status": "Accepted"
+    }
+  },
+  {
+    "date_observed": "2026-10-19",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2167414147",
+      "title": "Delete Operation for Two Strings",
+      "title_slug": "delete-operation-for-two-strings",
+      "timestamp": 1791559786,
+      "status": "Accepted"
+    }
+  }
+]

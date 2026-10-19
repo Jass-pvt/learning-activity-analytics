@@ -1,0 +1,42 @@
+name: Daily learning activity snapshot
+
+on:
+  schedule:
+    # GitHub Actions cron is UTC. This is 06:30 IST every day.
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-learning-activity
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Collect public activity
+        run: python -m tracker.run
+      - name: Commit changed snapshots and activity log
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No data changes; no commit created."
+          else
+            git commit -m "chore: update learning activity snapshot"
+            git push
+          fi
