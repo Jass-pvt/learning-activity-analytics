@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "collected_at_utc": "2026-10-20T05:51:17+00:00",
+  "collected_at_utc": "2026-10-21T05:53:17+00:00",
   "sources": {
     "google_skills": {
       "status": "ok",
@@ -63,14 +63,21 @@
         "profile_url": "https://leetcode.com/u/JaswanthRathore/",
         "username": "JaswanthRathore",
         "real_name": "JaswanthRathore",
-        "ranking": 1570787,
+        "ranking": 1571588,
         "accepted_problem_counts": {
-          "all": 110,
+          "all": 111,
           "easy": 37,
           "medium": 56,
-          "hard": 17
+          "hard": 18
         },
         "recent_accepted_submissions": [
+          {
+            "id": "2177213672",
+            "title": "Sum of Sortable Integers",
+            "title_slug": "sum-of-sortable-integers",
+            "timestamp": 1792511768,
+            "status": "Accepted"
+          },
           {
             "id": "2175970042",
             "title": "Find Target Indices After Sorting Array",
@@ -202,13 +209,6 @@
             "title": "Maximum Number of Balloons",
             "title_slug": "maximum-number-of-balloons",
             "timestamp": 1791560033,
-            "status": "Accepted"
-          },
-          {
-            "id": "2167414147",
-            "title": "Delete Operation for Two Strings",
-            "title_slug": "delete-operation-for-two-strings",
-            "timestamp": 1791559786,
             "status": "Accepted"
           }
         ],

@@ -238,5 +238,17 @@
       "timestamp": 1791559786,
       "status": "Accepted"
     }
+  },
+  {
+    "date_observed": "2026-10-21",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2177213672",
+      "title": "Sum of Sortable Integers",
+      "title_slug": "sum-of-sortable-integers",
+      "timestamp": 1792511768,
+      "status": "Accepted"
+    }
   }
 ]
