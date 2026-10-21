@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "collected_at_utc": "2026-10-21T05:53:17+00:00",
+  "collected_at_utc": "2026-10-21T13:34:29+00:00",
   "sources": {
     "google_skills": {
       "status": "ok",
@@ -63,14 +63,21 @@
         "profile_url": "https://leetcode.com/u/JaswanthRathore/",
         "username": "JaswanthRathore",
         "real_name": "JaswanthRathore",
-        "ranking": 1571588,
+        "ranking": 1560033,
         "accepted_problem_counts": {
-          "all": 111,
+          "all": 112,
           "easy": 37,
-          "medium": 56,
+          "medium": 57,
           "hard": 18
         },
         "recent_accepted_submissions": [
+          {
+            "id": "2177956751",
+            "title": "Minimum Operations to Sort a String",
+            "title_slug": "minimum-operations-to-sort-a-string",
+            "timestamp": 1792588109,
+            "status": "Accepted"
+          },
           {
             "id": "2177213672",
             "title": "Sum of Sortable Integers",
@@ -202,13 +209,6 @@
             "title": "Longest Palindrome",
             "title_slug": "longest-palindrome",
             "timestamp": 1791560095,
-            "status": "Accepted"
-          },
-          {
-            "id": "2167417597",
-            "title": "Maximum Number of Balloons",
-            "title_slug": "maximum-number-of-balloons",
-            "timestamp": 1791560033,
             "status": "Accepted"
           }
         ],

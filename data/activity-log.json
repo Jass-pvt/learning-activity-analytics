@@ -250,5 +250,17 @@
       "timestamp": 1792511768,
       "status": "Accepted"
     }
+  },
+  {
+    "date_observed": "2026-10-21",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2177956751",
+      "title": "Minimum Operations to Sort a String",
+      "title_slug": "minimum-operations-to-sort-a-string",
+      "timestamp": 1792588109,
+      "status": "Accepted"
+    }
   }
 ]
