@@ -1,9 +1,10 @@
-name: Daily learning activity snapshot
+
+name: Daily learning activity and streak maintenance
 
 on:
   schedule:
-    # GitHub Actions cron is UTC. This is 06:30 IST every day.
-    - cron: "0 1 * * *"
+    # 10:00 PM IST every day (16:30 UTC)
+    - cron: "30 16 * * *"
   workflow_dispatch:
 
 permissions:
@@ -16,27 +17,55 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
+
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
+
       - name: Install dependencies
         run: pip install -r requirements.txt
-      - name: Collect public activity
+
+      - name: Collect real learning activity
         run: python -m tracker.run
-      - name: Commit changed snapshots and activity log
+
+      - name: Record daily automation heartbeat
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p data
+          touch data/daily-log.md
+
+          TODAY="$(TZ=Asia/Kolkata date +%F)"
+
+          if ! grep -q "^${TODAY} " data/daily-log.md; then
+            echo "${TODAY} | Automated tracker heartbeat; not a claim of learning activity." >> data/daily-log.md
+          fi
+
+      - name: Commit daily snapshot and heartbeat
+        env:
+          CONTRIBUTION_NAME: ${{ vars.CONTRIBUTION_NAME }}
+          CONTRIBUTION_EMAIL: ${{ vars.CONTRIBUTION_EMAIL }}
+        run: |
+          set -e
+
+          if [ -z "$CONTRIBUTION_NAME" ] || [ -z "$CONTRIBUTION_EMAIL" ]; then
+            echo "::error::Configure CONTRIBUTION_NAME and CONTRIBUTION_EMAIL in repository Actions variables."
+            exit 1
+          fi
+
+          git config user.name "$CONTRIBUTION_NAME"
+          git config user.email "$CONTRIBUTION_EMAIL"
+
           git add data/
+
           if git diff --cached --quiet; then
-            echo "No data changes; no commit created."
+            echo "No changes to commit."
           else
-            git commit -m "chore: update learning activity snapshot"
+            git commit -m "chore: update daily learning tracker"
             git push
           fi
