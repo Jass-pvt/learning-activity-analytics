@@ -262,5 +262,73 @@
       "timestamp": 1792588109,
       "status": "Accepted"
     }
+  },
+  {
+    "date_observed": "2026-10-23",
+    "source": "google_skills",
+    "type": "new_badge_observed",
+    "details": {
+      "badge": "Arcade Adventure: Google Cloud ML APIs Earned Oct 22, 2026 EDT"
+    }
+  },
+  {
+    "date_observed": "2026-10-23",
+    "source": "google_skills",
+    "type": "new_badge_observed",
+    "details": {
+      "badge": "Create ML Models with BigQuery ML Earned Oct 22, 2026 EDT"
+    }
+  },
+  {
+    "date_observed": "2026-10-23",
+    "source": "google_skills",
+    "type": "new_badge_observed",
+    "details": {
+      "badge": "Implement DevOps Workflows in Google Cloud Earned Oct 22, 2026 EDT"
+    }
+  },
+  {
+    "date_observed": "2026-10-23",
+    "source": "google_skills",
+    "type": "new_badge_observed",
+    "details": {
+      "badge": "Implement Event-Driven Messaging and Automation Workflows Earned Oct 22, 2026 EDT"
+    }
+  },
+  {
+    "date_observed": "2026-10-23",
+    "source": "google_skills",
+    "type": "new_badge_observed",
+    "details": {
+      "badge": "Inspect Rich Documents with Gemini Multimodality and Multimodal RAG Earned Oct 22, 2026 EDT"
+    }
+  },
+  {
+    "date_observed": "2026-10-23",
+    "source": "google_skills",
+    "type": "new_badge_observed",
+    "details": {
+      "badge": "Set Up a Google Cloud Network Earned Oct 22, 2026 EDT"
+    }
+  },
+  {
+    "date_observed": "2026-10-23",
+    "source": "google_skills",
+    "type": "new_badge_observed",
+    "details": {
+      "badge": "Using the Google Cloud Speech API Earned Oct 22, 2026 EDT"
+    }
+  },
+  {
+    "date_observed": "2026-10-23",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2178571924",
+      "title": "Minimum Operations to Sort a Permutation",
+      "title_slug": "minimum-operations-to-sort-a-permutation",
+      "timestamp": 1792650104,
+      "status": "Accepted"
+    }
   }
 ]
