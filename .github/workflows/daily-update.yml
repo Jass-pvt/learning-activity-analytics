@@ -1,10 +1,11 @@
-
 name: Daily learning activity and streak maintenance
 
 on:
   schedule:
-    # 10:00 PM IST every day (16:30 UTC)
-    - cron: "30 16 * * *"
+    # 2:00 PM IST (08:30 UTC)
+    - cron: "30 8 * * *"
+    # 11:30 PM IST (18:00 UTC)
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 permissions:
@@ -35,18 +36,7 @@ jobs:
       - name: Collect real learning activity
         run: python -m tracker.run
 
-      - name: Record daily automation heartbeat
-        run: |
-          mkdir -p data
-          touch data/daily-log.md
-
-          TODAY="$(TZ=Asia/Kolkata date +%F)"
-
-          if ! grep -q "^${TODAY} " data/daily-log.md; then
-            echo "${TODAY} | Automated tracker heartbeat; not a claim of learning activity." >> data/daily-log.md
-          fi
-
-      - name: Commit daily snapshot and heartbeat
+      - name: Commit actual tracker updates
         env:
           CONTRIBUTION_NAME: ${{ vars.CONTRIBUTION_NAME }}
           CONTRIBUTION_EMAIL: ${{ vars.CONTRIBUTION_EMAIL }}
@@ -64,7 +54,7 @@ jobs:
           git add data/
 
           if git diff --cached --quiet; then
-            echo "No changes to commit."
+            echo "No tracker changes to commit."
           else
             git commit -m "chore: update daily learning tracker"
             git push
