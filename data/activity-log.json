@@ -330,5 +330,17 @@
       "timestamp": 1792650104,
       "status": "Accepted"
     }
+  },
+  {
+    "date_observed": "2026-10-23",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2179491636",
+      "title": "Maximum K to Sort a Permutation",
+      "title_slug": "maximum-k-to-sort-a-permutation",
+      "timestamp": 1792744056,
+      "status": "Accepted"
+    }
   }
 ]

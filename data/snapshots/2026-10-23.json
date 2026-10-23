@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "collected_at_utc": "2026-10-22T21:19:53+00:00",
+  "collected_at_utc": "2026-10-23T13:43:41+00:00",
   "sources": {
     "google_skills": {
       "status": "ok",
@@ -70,14 +70,21 @@
         "profile_url": "https://leetcode.com/u/JaswanthRathore/",
         "username": "JaswanthRathore",
         "real_name": "JaswanthRathore",
-        "ranking": 1536929,
+        "ranking": 1526042,
         "accepted_problem_counts": {
-          "all": 113,
+          "all": 114,
           "easy": 37,
-          "medium": 58,
+          "medium": 59,
           "hard": 18
         },
         "recent_accepted_submissions": [
+          {
+            "id": "2179491636",
+            "title": "Maximum K to Sort a Permutation",
+            "title_slug": "maximum-k-to-sort-a-permutation",
+            "timestamp": 1792744056,
+            "status": "Accepted"
+          },
           {
             "id": "2178571924",
             "title": "Minimum Operations to Sort a Permutation",
@@ -209,13 +216,6 @@
             "title": "Valid Palindrome",
             "title_slug": "valid-palindrome",
             "timestamp": 1791560373,
-            "status": "Accepted"
-          },
-          {
-            "id": "2167419887",
-            "title": "Two Sum II - Input Array Is Sorted",
-            "title_slug": "two-sum-ii-input-array-is-sorted",
-            "timestamp": 1791560202,
             "status": "Accepted"
           }
         ],
