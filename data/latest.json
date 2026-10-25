@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "collected_at_utc": "2026-10-24T20:27:23+00:00",
+  "collected_at_utc": "2026-10-25T13:18:37+00:00",
   "sources": {
     "google_skills": {
       "status": "ok",
@@ -70,14 +70,21 @@
         "profile_url": "https://leetcode.com/u/JaswanthRathore/",
         "username": "JaswanthRathore",
         "real_name": "JaswanthRathore",
-        "ranking": 1515245,
+        "ranking": 1504802,
         "accepted_problem_counts": {
-          "all": 115,
+          "all": 116,
           "easy": 38,
-          "medium": 59,
+          "medium": 60,
           "hard": 18
         },
         "recent_accepted_submissions": [
+          {
+            "id": "2181242146",
+            "title": "Number of Closed Islands",
+            "title_slug": "number-of-closed-islands",
+            "timestamp": 1792918598,
+            "status": "Accepted"
+          },
           {
             "id": "2180164946",
             "title": "Count Days Spent Together",
@@ -209,13 +216,6 @@
             "title": "Zigzag Conversion",
             "title_slug": "zigzag-conversion",
             "timestamp": 1791560521,
-            "status": "Accepted"
-          },
-          {
-            "id": "2167422991",
-            "title": "Move Zeroes",
-            "title_slug": "move-zeroes",
-            "timestamp": 1791560414,
             "status": "Accepted"
           }
         ],

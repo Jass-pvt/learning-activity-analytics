@@ -354,5 +354,17 @@
       "timestamp": 1792819811,
       "status": "Accepted"
     }
+  },
+  {
+    "date_observed": "2026-10-25",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2181242146",
+      "title": "Number of Closed Islands",
+      "title_slug": "number-of-closed-islands",
+      "timestamp": 1792918598,
+      "status": "Accepted"
+    }
   }
 ]
