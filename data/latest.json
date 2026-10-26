@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "collected_at_utc": "2026-10-26T15:23:14+00:00",
+  "collected_at_utc": "2026-10-26T22:26:06+00:00",
   "sources": {
     "google_skills": {
       "status": "ok",
@@ -17,6 +17,7 @@
           "Arcade Voyage: Language, Voice, and Multimodal Processing Earned Oct 16, 2026 EDT",
           "Attention Mechanism Earned Oct 19, 2026 EDT",
           "Build Global and Regional Load Balancing Solutions Earned Oct 19, 2026 EDT",
+          "Build a Data Warehouse with BigQuery Earned Oct 26, 2026 EDT",
           "Cloud Engineering Earned Oct 13, 2026 EDT",
           "Create Image Captioning Models Earned Oct 19, 2026 EDT",
           "Create ML Models with BigQuery ML Earned Oct 22, 2026 EDT",
@@ -24,9 +25,12 @@
           "Create a Secure Data Lake on Cloud Storage Earned Nov 28, 2025 EST",
           "Create and Manage AlloyDB Instances Earned Oct 13, 2026 EDT",
           "Deploy Kubernetes Applications on Google Cloud Earned Oct 14, 2026 EDT",
+          "Deploy and Secure Serverless APIs with API Gateway Earned Oct 26, 2026 EDT",
+          "Derive Insights from BigQuery Data Earned Oct 26, 2026 EDT",
           "Develop Your Google Cloud Network Earned Oct 11, 2026 EDT",
           "Digital Transformation with Google Cloud Earned Nov 19, 2025 EST",
           "Encoder-Decoder Architecture Earned Oct 19, 2026 EDT",
+          "Engineer Data for Predictive Modeling with BigQuery ML Earned Oct 26, 2026 EDT",
           "Exploring Data Transformation with Google Cloud Earned Nov 28, 2025 EST",
           "Gen AI: Beyond the Chatbot Earned Oct 19, 2026 EDT",
           "Gen AI: Unlock Foundational Concepts Earned Oct 19, 2026 EDT",
@@ -39,6 +43,7 @@
           "Implement Event-Driven Messaging and Automation Workflows Earned Oct 22, 2026 EDT",
           "Implement Sensitive Data Protection on Google Cloud Earned Nov 28, 2025 EST",
           "Implement Speech and Language Solutions with Pre-trained APIs Earned Oct 16, 2026 EDT",
+          "Implementing Cloud Load Balancing for Compute Engine Earned Oct 26, 2026 EDT",
           "Inspect Rich Documents with Gemini Multimodality and Multimodal RAG Earned Oct 22, 2026 EDT",
           "Introduction to Generative AI Earned Oct 19, 2026 EDT",
           "Introduction to Image Generation Earned Oct 19, 2026 EDT",
@@ -48,6 +53,7 @@
           "Level 2: Intelligent Development and Automation Earned Nov 19, 2025 EST",
           "Level 3: Generative AI Earned Oct 31, 2025 EDT",
           "Level 3: Scalable Deployments and Delivery Earned Nov 19, 2025 EST",
+          "Machine Learning Operations (MLOps) with Agent Platform: Model Evaluation Earned Oct 26, 2026 EDT",
           "Monitor Environments with Google Cloud Managed Service for Prometheus Earned Oct 13, 2026 EDT",
           "Prompt Design in Agent Platform Earned Oct 19, 2026 EDT",
           "Responsible AI: Applying AI Principles with Google Cloud Earned Oct 19, 2026 EDT",
@@ -60,7 +66,7 @@
           "Trick-or-Metric Earned Oct 12, 2026 EDT",
           "Using the Google Cloud Speech API Earned Oct 22, 2026 EDT"
         ],
-        "badge_count_observed": 51,
+        "badge_count_observed": 57,
         "collection_note": "Best-effort public-page extraction; empty badge list means the page did not expose parseable badge labels."
       }
     },

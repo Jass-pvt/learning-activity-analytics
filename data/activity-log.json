@@ -378,5 +378,53 @@
       "timestamp": 1793003314,
       "status": "Accepted"
     }
+  },
+  {
+    "date_observed": "2026-10-27",
+    "source": "google_skills",
+    "type": "new_badge_observed",
+    "details": {
+      "badge": "Build a Data Warehouse with BigQuery Earned Oct 26, 2026 EDT"
+    }
+  },
+  {
+    "date_observed": "2026-10-27",
+    "source": "google_skills",
+    "type": "new_badge_observed",
+    "details": {
+      "badge": "Deploy and Secure Serverless APIs with API Gateway Earned Oct 26, 2026 EDT"
+    }
+  },
+  {
+    "date_observed": "2026-10-27",
+    "source": "google_skills",
+    "type": "new_badge_observed",
+    "details": {
+      "badge": "Derive Insights from BigQuery Data Earned Oct 26, 2026 EDT"
+    }
+  },
+  {
+    "date_observed": "2026-10-27",
+    "source": "google_skills",
+    "type": "new_badge_observed",
+    "details": {
+      "badge": "Engineer Data for Predictive Modeling with BigQuery ML Earned Oct 26, 2026 EDT"
+    }
+  },
+  {
+    "date_observed": "2026-10-27",
+    "source": "google_skills",
+    "type": "new_badge_observed",
+    "details": {
+      "badge": "Implementing Cloud Load Balancing for Compute Engine Earned Oct 26, 2026 EDT"
+    }
+  },
+  {
+    "date_observed": "2026-10-27",
+    "source": "google_skills",
+    "type": "new_badge_observed",
+    "details": {
+      "badge": "Machine Learning Operations (MLOps) with Agent Platform: Model Evaluation Earned Oct 26, 2026 EDT"
+    }
   }
 ]
