@@ -426,5 +426,17 @@
     "details": {
       "badge": "Machine Learning Operations (MLOps) with Agent Platform: Model Evaluation Earned Oct 26, 2026 EDT"
     }
+  },
+  {
+    "date_observed": "2026-10-27",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2183086811",
+      "title": "Create Grid With Exactly One Path",
+      "title_slug": "create-grid-with-exactly-one-path",
+      "timestamp": 1793106429,
+      "status": "Accepted"
+    }
   }
 ]

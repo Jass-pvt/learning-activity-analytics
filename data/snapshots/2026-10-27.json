@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "collected_at_utc": "2026-10-26T22:26:06+00:00",
+  "collected_at_utc": "2026-10-27T14:50:14+00:00",
   "sources": {
     "google_skills": {
       "status": "ok",
@@ -76,14 +76,21 @@
         "profile_url": "https://leetcode.com/u/JaswanthRathore/",
         "username": "JaswanthRathore",
         "real_name": "JaswanthRathore",
-        "ranking": 1494395,
+        "ranking": 1495179,
         "accepted_problem_counts": {
-          "all": 117,
-          "easy": 38,
+          "all": 118,
+          "easy": 39,
           "medium": 61,
           "hard": 18
         },
         "recent_accepted_submissions": [
+          {
+            "id": "2183086811",
+            "title": "Create Grid With Exactly One Path",
+            "title_slug": "create-grid-with-exactly-one-path",
+            "timestamp": 1793106429,
+            "status": "Accepted"
+          },
           {
             "id": "2182048054",
             "title": "Count Islands With Total Value Divisible by K",
@@ -215,13 +222,6 @@
             "title": "String to Integer (atoi)",
             "title_slug": "string-to-integer-atoi",
             "timestamp": 1791560635,
-            "status": "Accepted"
-          },
-          {
-            "id": "2167425463",
-            "title": "Reverse Integer",
-            "title_slug": "reverse-integer",
-            "timestamp": 1791560575,
             "status": "Accepted"
           }
         ],
