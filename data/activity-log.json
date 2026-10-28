@@ -438,5 +438,17 @@
       "timestamp": 1793106429,
       "status": "Accepted"
     }
+  },
+  {
+    "date_observed": "2026-10-28",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2183890713",
+      "title": "Minimum XOR Path in a Grid",
+      "title_slug": "minimum-xor-path-in-a-grid",
+      "timestamp": 1793190466,
+      "status": "Accepted"
+    }
   }
 ]
