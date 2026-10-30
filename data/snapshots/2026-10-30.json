@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "collected_at_utc": "2026-10-29T22:34:23+00:00",
+  "collected_at_utc": "2026-10-30T15:12:34+00:00",
   "sources": {
     "google_skills": {
       "status": "ok",
@@ -76,7 +76,7 @@
         "profile_url": "https://leetcode.com/u/JaswanthRathore/",
         "username": "JaswanthRathore",
         "real_name": "JaswanthRathore",
-        "ranking": 1474782,
+        "ranking": 1475506,
         "accepted_problem_counts": {
           "all": 119,
           "easy": 39,
