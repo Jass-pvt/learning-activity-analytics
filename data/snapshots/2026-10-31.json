@@ -1,0 +1,243 @@
+{
+  "schema_version": 1,
+  "collected_at_utc": "2026-10-30T22:03:15+00:00",
+  "sources": {
+    "google_skills": {
+      "status": "ok",
+      "data": {
+        "profile_url": "https://www.skills.google/public_profiles/def4bf30-fead-4bf0-81b4-d1c68bcbb7bc",
+        "page_title": "Jaswanth rathore | Google Skills",
+        "earned_badges": [
+          "Analyze Images with the Cloud Vision API Earned Oct 17, 2026 EDT",
+          "Analyze Speech and Language with Google APIs Earned Oct 16, 2026 EDT",
+          "Arcade Adventure: Google Cloud ML APIs Earned Oct 22, 2026 EDT",
+          "Arcade Base Camp October 2026 Earned Oct 11, 2026 EDT",
+          "Arcade Simulator: Site Reliability Engineer Earned Oct 13, 2026 EDT",
+          "Arcade Trail: Containers & Load Balancing Earned Oct 19, 2026 EDT",
+          "Arcade Voyage: Language, Voice, and Multimodal Processing Earned Oct 16, 2026 EDT",
+          "Attention Mechanism Earned Oct 19, 2026 EDT",
+          "Build Global and Regional Load Balancing Solutions Earned Oct 19, 2026 EDT",
+          "Build a Data Warehouse with BigQuery Earned Oct 26, 2026 EDT",
+          "Cloud Engineering Earned Oct 13, 2026 EDT",
+          "Create Image Captioning Models Earned Oct 19, 2026 EDT",
+          "Create ML Models with BigQuery ML Earned Oct 22, 2026 EDT",
+          "Create Your First Gemini Enterprise Application Earned Oct 19, 2026 EDT",
+          "Create a Secure Data Lake on Cloud Storage Earned Nov 28, 2025 EST",
+          "Create and Manage AlloyDB Instances Earned Oct 13, 2026 EDT",
+          "Deploy Kubernetes Applications on Google Cloud Earned Oct 14, 2026 EDT",
+          "Deploy and Secure Serverless APIs with API Gateway Earned Oct 26, 2026 EDT",
+          "Derive Insights from BigQuery Data Earned Oct 26, 2026 EDT",
+          "Develop Your Google Cloud Network Earned Oct 11, 2026 EDT",
+          "Digital Transformation with Google Cloud Earned Nov 19, 2025 EST",
+          "Encoder-Decoder Architecture Earned Oct 19, 2026 EDT",
+          "Engineer Data for Predictive Modeling with BigQuery ML Earned Oct 26, 2026 EDT",
+          "Exploring Data Transformation with Google Cloud Earned Nov 28, 2025 EST",
+          "Gen AI: Beyond the Chatbot Earned Oct 19, 2026 EDT",
+          "Gen AI: Unlock Foundational Concepts Earned Oct 19, 2026 EDT",
+          "Google Skills Arcade Certification Zone October 2025 Earned Oct 28, 2025 EDT",
+          "Google Skills Arcade Trivia November 2025 Week 1 Earned Nov 4, 2025 EST",
+          "Google Skills Arcade Trivia November 2025 Week 2 Earned Nov 5, 2025 EST",
+          "Google Skills Arcade Trivia November 2025 Week 3 Earned Nov 6, 2025 EST",
+          "Google Skills Arcade Trivia November 2025 Week 4 Earned Nov 6, 2025 EST",
+          "Implement DevOps Workflows in Google Cloud Earned Oct 22, 2026 EDT",
+          "Implement Event-Driven Messaging and Automation Workflows Earned Oct 22, 2026 EDT",
+          "Implement Sensitive Data Protection on Google Cloud Earned Nov 28, 2025 EST",
+          "Implement Speech and Language Solutions with Pre-trained APIs Earned Oct 16, 2026 EDT",
+          "Implementing Cloud Load Balancing for Compute Engine Earned Oct 26, 2026 EDT",
+          "Inspect Rich Documents with Gemini Multimodality and Multimodal RAG Earned Oct 22, 2026 EDT",
+          "Introduction to Generative AI Earned Oct 19, 2026 EDT",
+          "Introduction to Image Generation Earned Oct 19, 2026 EDT",
+          "Introduction to Large Language Models Earned Oct 19, 2026 EDT",
+          "Level 1: Scalable Systems Earned Oct 27, 2025 EDT",
+          "Level 2: Cloud Operations and Application Management Earned Oct 30, 2025 EDT",
+          "Level 2: Intelligent Development and Automation Earned Nov 19, 2025 EST",
+          "Level 3: Generative AI Earned Oct 31, 2025 EDT",
+          "Level 3: Scalable Deployments and Delivery Earned Nov 19, 2025 EST",
+          "Machine Learning Operations (MLOps) with Agent Platform: Model Evaluation Earned Oct 26, 2026 EDT",
+          "Monitor Environments with Google Cloud Managed Service for Prometheus Earned Oct 13, 2026 EDT",
+          "Prompt Design in Agent Platform Earned Oct 19, 2026 EDT",
+          "Responsible AI: Applying AI Principles with Google Cloud Earned Oct 19, 2026 EDT",
+          "Set Up a Google Cloud Network Earned Oct 22, 2026 EDT",
+          "Skills Boost Arcade Base Camp October 2025 Earned Oct 29, 2025 EDT",
+          "Skills Boost Arcade Trivia October 2025 Week 1 Earned Oct 26, 2025 EDT",
+          "Skills Boost Arcade Trivia October 2025 Week 2 Earned Oct 26, 2025 EDT",
+          "Skills Boost Arcade Trivia October 2025 Week 3 Earned Oct 27, 2025 EDT",
+          "Skills Boost Arcade Trivia October 2025 Week 4 Earned Oct 27, 2025 EDT",
+          "Trick-or-Metric Earned Oct 12, 2026 EDT",
+          "Using the Google Cloud Speech API Earned Oct 22, 2026 EDT"
+        ],
+        "badge_count_observed": 57,
+        "collection_note": "Best-effort public-page extraction; empty badge list means the page did not expose parseable badge labels."
+      }
+    },
+    "leetcode": {
+      "status": "ok",
+      "data": {
+        "profile_url": "https://leetcode.com/u/JaswanthRathore/",
+        "username": "JaswanthRathore",
+        "real_name": "JaswanthRathore",
+        "ranking": 1475506,
+        "accepted_problem_counts": {
+          "all": 119,
+          "easy": 39,
+          "medium": 62,
+          "hard": 18
+        },
+        "recent_accepted_submissions": [
+          {
+            "id": "2183890713",
+            "title": "Minimum XOR Path in a Grid",
+            "title_slug": "minimum-xor-path-in-a-grid",
+            "timestamp": 1793190466,
+            "status": "Accepted"
+          },
+          {
+            "id": "2183086811",
+            "title": "Create Grid With Exactly One Path",
+            "title_slug": "create-grid-with-exactly-one-path",
+            "timestamp": 1793106429,
+            "status": "Accepted"
+          },
+          {
+            "id": "2182048054",
+            "title": "Count Islands With Total Value Divisible by K",
+            "title_slug": "count-islands-with-total-value-divisible-by-k",
+            "timestamp": 1793003314,
+            "status": "Accepted"
+          },
+          {
+            "id": "2181242146",
+            "title": "Number of Closed Islands",
+            "title_slug": "number-of-closed-islands",
+            "timestamp": 1792918598,
+            "status": "Accepted"
+          },
+          {
+            "id": "2180164946",
+            "title": "Count Days Spent Together",
+            "title_slug": "count-days-spent-together",
+            "timestamp": 1792819811,
+            "status": "Accepted"
+          },
+          {
+            "id": "2179491636",
+            "title": "Maximum K to Sort a Permutation",
+            "title_slug": "maximum-k-to-sort-a-permutation",
+            "timestamp": 1792744056,
+            "status": "Accepted"
+          },
+          {
+            "id": "2178571924",
+            "title": "Minimum Operations to Sort a Permutation",
+            "title_slug": "minimum-operations-to-sort-a-permutation",
+            "timestamp": 1792650104,
+            "status": "Accepted"
+          },
+          {
+            "id": "2177956751",
+            "title": "Minimum Operations to Sort a String",
+            "title_slug": "minimum-operations-to-sort-a-string",
+            "timestamp": 1792588109,
+            "status": "Accepted"
+          },
+          {
+            "id": "2177213672",
+            "title": "Sum of Sortable Integers",
+            "title_slug": "sum-of-sortable-integers",
+            "timestamp": 1792511768,
+            "status": "Accepted"
+          },
+          {
+            "id": "2175970042",
+            "title": "Find Target Indices After Sorting Array",
+            "title_slug": "find-target-indices-after-sorting-array",
+            "timestamp": 1792391577,
+            "status": "Accepted"
+          },
+          {
+            "id": "2175183426",
+            "title": "Number of Ways to Reorder Array to Get Same BST",
+            "title_slug": "number-of-ways-to-reorder-array-to-get-same-bst",
+            "timestamp": 1792306708,
+            "status": "Accepted"
+          },
+          {
+            "id": "2174656690",
+            "title": "Minimum Swaps to Sort by Digit Sum",
+            "title_slug": "minimum-swaps-to-sort-by-digit-sum",
+            "timestamp": 1792249657,
+            "status": "Accepted"
+          },
+          {
+            "id": "2173711433",
+            "title": "Subarrays Distinct Element Sum of Squares II",
+            "title_slug": "subarrays-distinct-element-sum-of-squares-ii",
+            "timestamp": 1792142549,
+            "status": "Accepted"
+          },
+          {
+            "id": "2172835436",
+            "title": "Subarrays Distinct Element Sum of Squares I",
+            "title_slug": "subarrays-distinct-element-sum-of-squares-i",
+            "timestamp": 1792051462,
+            "status": "Accepted"
+          },
+          {
+            "id": "2171878181",
+            "title": "Maximize Sum of Squares of Digits",
+            "title_slug": "maximize-sum-of-squares-of-digits",
+            "timestamp": 1791960017,
+            "status": "Accepted"
+          },
+          {
+            "id": "2170971060",
+            "title": "Maximum Alternating Sum of Squares",
+            "title_slug": "maximum-alternating-sum-of-squares",
+            "timestamp": 1791878724,
+            "status": "Accepted"
+          },
+          {
+            "id": "2169855634",
+            "title": "Apply Operations on Array to Maximize Sum of Squares",
+            "title_slug": "apply-operations-on-array-to-maximize-sum-of-squares",
+            "timestamp": 1791781993,
+            "status": "Accepted"
+          },
+          {
+            "id": "2169353413",
+            "title": "Sum of Squares of Special Elements ",
+            "title_slug": "sum-of-squares-of-special-elements",
+            "timestamp": 1791728823,
+            "status": "Accepted"
+          },
+          {
+            "id": "2167872941",
+            "title": "Minimum Sum of Squared Difference",
+            "title_slug": "minimum-sum-of-squared-difference",
+            "timestamp": 1791612298,
+            "status": "Accepted"
+          },
+          {
+            "id": "2167432947",
+            "title": "Palindrome Number",
+            "title_slug": "palindrome-number",
+            "timestamp": 1791561077,
+            "status": "Accepted"
+          }
+        ],
+        "recent_submissions_note": "Limited recent accepted-submission feed; not a complete lifetime activity history."
+      }
+    },
+    "geeksforgeeks": {
+      "status": "ok",
+      "data": {
+        "profile_url": "https://www.geeksforgeeks.org/profile/jaswanthrathore",
+        "page_title": "Jaswanth Rathore  - Sathyabama Institute of Science and Technology | GeeksforGeeks Profile",
+        "total_problems_solved": null,
+        "coding_score": null,
+        "fallback_stats_api_used": false,
+        "collection_note": "Null values mean the public page/API did not expose a reliably labelled value; no value is guessed."
+      }
+    }
+  }
+}
