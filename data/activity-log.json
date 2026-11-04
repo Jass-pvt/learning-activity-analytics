@@ -450,5 +450,17 @@
       "timestamp": 1793190466,
       "status": "Accepted"
     }
+  },
+  {
+    "date_observed": "2026-11-04",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2189126626",
+      "title": "Minimum Operations to Make Elements Within K Subarrays Equal",
+      "title_slug": "minimum-operations-to-make-elements-within-k-subarrays-equal",
+      "timestamp": 1793772270,
+      "status": "Accepted"
+    }
   }
 ]

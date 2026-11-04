@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "collected_at_utc": "2026-11-03T23:00:21+00:00",
+  "collected_at_utc": "2026-11-04T16:29:37+00:00",
   "sources": {
     "google_skills": {
       "status": "ok",
@@ -76,14 +76,21 @@
         "profile_url": "https://leetcode.com/u/JaswanthRathore/",
         "username": "JaswanthRathore",
         "real_name": "JaswanthRathore",
-        "ranking": 1478258,
+        "ranking": 1468070,
         "accepted_problem_counts": {
-          "all": 119,
+          "all": 120,
           "easy": 39,
           "medium": 62,
-          "hard": 18
+          "hard": 19
         },
         "recent_accepted_submissions": [
+          {
+            "id": "2189126626",
+            "title": "Minimum Operations to Make Elements Within K Subarrays Equal",
+            "title_slug": "minimum-operations-to-make-elements-within-k-subarrays-equal",
+            "timestamp": 1793772270,
+            "status": "Accepted"
+          },
           {
             "id": "2183890713",
             "title": "Minimum XOR Path in a Grid",
@@ -215,13 +222,6 @@
             "title": "Minimum Sum of Squared Difference",
             "title_slug": "minimum-sum-of-squared-difference",
             "timestamp": 1791612298,
-            "status": "Accepted"
-          },
-          {
-            "id": "2167432947",
-            "title": "Palindrome Number",
-            "title_slug": "palindrome-number",
-            "timestamp": 1791561077,
             "status": "Accepted"
           }
         ],
