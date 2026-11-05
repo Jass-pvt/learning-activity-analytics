@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "collected_at_utc": "2026-11-04T23:24:13+00:00",
+  "collected_at_utc": "2026-11-05T16:40:33+00:00",
   "sources": {
     "google_skills": {
       "status": "ok",
@@ -76,14 +76,21 @@
         "profile_url": "https://leetcode.com/u/JaswanthRathore/",
         "username": "JaswanthRathore",
         "real_name": "JaswanthRathore",
-        "ranking": 1468070,
+        "ranking": 1468699,
         "accepted_problem_counts": {
-          "all": 120,
-          "easy": 39,
+          "all": 121,
+          "easy": 40,
           "medium": 62,
           "hard": 19
         },
         "recent_accepted_submissions": [
+          {
+            "id": "2190093362",
+            "title": "Find the Distance Value Between Two Arrays",
+            "title_slug": "find-the-distance-value-between-two-arrays",
+            "timestamp": 1793886505,
+            "status": "Accepted"
+          },
           {
             "id": "2189126626",
             "title": "Minimum Operations to Make Elements Within K Subarrays Equal",
@@ -215,13 +222,6 @@
             "title": "Sum of Squares of Special Elements ",
             "title_slug": "sum-of-squares-of-special-elements",
             "timestamp": 1791728823,
-            "status": "Accepted"
-          },
-          {
-            "id": "2167872941",
-            "title": "Minimum Sum of Squared Difference",
-            "title_slug": "minimum-sum-of-squared-difference",
-            "timestamp": 1791612298,
             "status": "Accepted"
           }
         ],

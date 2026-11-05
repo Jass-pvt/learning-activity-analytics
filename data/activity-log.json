@@ -462,5 +462,17 @@
       "timestamp": 1793772270,
       "status": "Accepted"
     }
+  },
+  {
+    "date_observed": "2026-11-05",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2190093362",
+      "title": "Find the Distance Value Between Two Arrays",
+      "title_slug": "find-the-distance-value-between-two-arrays",
+      "timestamp": 1793886505,
+      "status": "Accepted"
+    }
   }
 ]
