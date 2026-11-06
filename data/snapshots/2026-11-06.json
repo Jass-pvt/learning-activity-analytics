@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "collected_at_utc": "2026-11-05T23:25:53+00:00",
+  "collected_at_utc": "2026-11-06T16:08:57+00:00",
   "sources": {
     "google_skills": {
       "status": "ok",
@@ -76,14 +76,21 @@
         "profile_url": "https://leetcode.com/u/JaswanthRathore/",
         "username": "JaswanthRathore",
         "real_name": "JaswanthRathore",
-        "ranking": 1468699,
+        "ranking": 1458267,
         "accepted_problem_counts": {
-          "all": 121,
+          "all": 122,
           "easy": 40,
-          "medium": 62,
+          "medium": 63,
           "hard": 19
         },
         "recent_accepted_submissions": [
+          {
+            "id": "2190758167",
+            "title": "Count Zero Request Servers",
+            "title_slug": "count-zero-request-servers",
+            "timestamp": 1793976600,
+            "status": "Accepted"
+          },
           {
             "id": "2190093362",
             "title": "Find the Distance Value Between Two Arrays",
@@ -215,13 +222,6 @@
             "title": "Apply Operations on Array to Maximize Sum of Squares",
             "title_slug": "apply-operations-on-array-to-maximize-sum-of-squares",
             "timestamp": 1791781993,
-            "status": "Accepted"
-          },
-          {
-            "id": "2169353413",
-            "title": "Sum of Squares of Special Elements ",
-            "title_slug": "sum-of-squares-of-special-elements",
-            "timestamp": 1791728823,
             "status": "Accepted"
           }
         ],
