@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "collected_at_utc": "2026-11-07T21:36:14+00:00",
+  "collected_at_utc": "2026-11-08T15:30:05+00:00",
   "sources": {
     "google_skills": {
       "status": "ok",
@@ -76,14 +76,21 @@
         "profile_url": "https://leetcode.com/u/JaswanthRathore/",
         "username": "JaswanthRathore",
         "real_name": "JaswanthRathore",
-        "ranking": 1448113,
+        "ranking": 1427632,
         "accepted_problem_counts": {
-          "all": 123,
+          "all": 124,
           "easy": 40,
-          "medium": 64,
+          "medium": 65,
           "hard": 19
         },
         "recent_accepted_submissions": [
+          {
+            "id": "2191786121",
+            "title": "Count Servers that Communicate",
+            "title_slug": "count-servers-that-communicate",
+            "timestamp": 1794121005,
+            "status": "Accepted"
+          },
           {
             "id": "2191283198",
             "title": "Process Tasks Using Servers",
@@ -215,13 +222,6 @@
             "title": "Maximize Sum of Squares of Digits",
             "title_slug": "maximize-sum-of-squares-of-digits",
             "timestamp": 1791960017,
-            "status": "Accepted"
-          },
-          {
-            "id": "2170971060",
-            "title": "Maximum Alternating Sum of Squares",
-            "title_slug": "maximum-alternating-sum-of-squares",
-            "timestamp": 1791878724,
             "status": "Accepted"
           }
         ],
