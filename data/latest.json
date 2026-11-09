@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "collected_at_utc": "2026-11-08T21:50:25+00:00",
+  "collected_at_utc": "2026-11-09T19:01:54+00:00",
   "sources": {
     "google_skills": {
       "status": "ok",
@@ -76,14 +76,21 @@
         "profile_url": "https://leetcode.com/u/JaswanthRathore/",
         "username": "JaswanthRathore",
         "real_name": "JaswanthRathore",
-        "ranking": 1427632,
+        "ranking": 1417834,
         "accepted_problem_counts": {
-          "all": 124,
+          "all": 125,
           "easy": 40,
           "medium": 65,
-          "hard": 19
+          "hard": 20
         },
         "recent_accepted_submissions": [
+          {
+            "id": "2192348907",
+            "title": "Find Servers That Handled Most Number of Requests",
+            "title_slug": "find-servers-that-handled-most-number-of-requests",
+            "timestamp": 1794211791,
+            "status": "Accepted"
+          },
           {
             "id": "2191786121",
             "title": "Count Servers that Communicate",
@@ -215,13 +222,6 @@
             "title": "Subarrays Distinct Element Sum of Squares I",
             "title_slug": "subarrays-distinct-element-sum-of-squares-i",
             "timestamp": 1792051462,
-            "status": "Accepted"
-          },
-          {
-            "id": "2171878181",
-            "title": "Maximize Sum of Squares of Digits",
-            "title_slug": "maximize-sum-of-squares-of-digits",
-            "timestamp": 1791960017,
             "status": "Accepted"
           }
         ],

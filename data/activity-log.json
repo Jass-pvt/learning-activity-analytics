@@ -510,5 +510,17 @@
       "timestamp": 1794121005,
       "status": "Accepted"
     }
+  },
+  {
+    "date_observed": "2026-11-10",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2192348907",
+      "title": "Find Servers That Handled Most Number of Requests",
+      "title_slug": "find-servers-that-handled-most-number-of-requests",
+      "timestamp": 1794211791,
+      "status": "Accepted"
+    }
   }
 ]
