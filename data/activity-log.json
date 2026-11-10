@@ -513,6 +513,14 @@
   },
   {
     "date_observed": "2026-11-10",
+    "source": "google_skills",
+    "type": "new_badge_observed",
+    "details": {
+      "badge": "Build Infrastructure with Terraform on Google Cloud Earned Nov 10, 2026 EST"
+    }
+  },
+  {
+    "date_observed": "2026-11-10",
     "source": "leetcode",
     "type": "new_accepted_submission_observed",
     "details": {
@@ -520,6 +528,18 @@
       "title": "Find Servers That Handled Most Number of Requests",
       "title_slug": "find-servers-that-handled-most-number-of-requests",
       "timestamp": 1794211791,
+      "status": "Accepted"
+    }
+  },
+  {
+    "date_observed": "2026-11-10",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2192970069",
+      "title": "Climbing Stairs II",
+      "title_slug": "climbing-stairs-ii",
+      "timestamp": 1794292746,
       "status": "Accepted"
     }
   }
