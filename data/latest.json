@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "collected_at_utc": "2026-11-12T16:59:36+00:00",
+  "collected_at_utc": "2026-11-12T23:20:51+00:00",
   "sources": {
     "google_skills": {
       "status": "ok",
@@ -10,6 +10,7 @@
         "earned_badges": [
           "Analyze Images with the Cloud Vision API Earned Oct 17, 2026 EDT",
           "Analyze Speech and Language with Google APIs Earned Oct 16, 2026 EDT",
+          "Arcade Adventure: Cloud Infrastructure & App Scale Earned Nov 12, 2026 EST",
           "Arcade Adventure: Google Cloud ML APIs Earned Oct 22, 2026 EDT",
           "Arcade Base Camp October 2026 Earned Oct 11, 2026 EDT",
           "Arcade Simulator: Site Reliability Engineer Earned Oct 13, 2026 EDT",
@@ -67,7 +68,7 @@
           "Trick-or-Metric Earned Oct 12, 2026 EDT",
           "Using the Google Cloud Speech API Earned Oct 22, 2026 EDT"
         ],
-        "badge_count_observed": 58,
+        "badge_count_observed": 59,
         "collection_note": "Best-effort public-page extraction; empty badge list means the page did not expose parseable badge labels."
       }
     },

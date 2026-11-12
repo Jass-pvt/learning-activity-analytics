@@ -554,5 +554,13 @@
       "timestamp": 1794496659,
       "status": "Accepted"
     }
+  },
+  {
+    "date_observed": "2026-11-13",
+    "source": "google_skills",
+    "type": "new_badge_observed",
+    "details": {
+      "badge": "Arcade Adventure: Cloud Infrastructure & App Scale Earned Nov 12, 2026 EST"
+    }
   }
 ]
