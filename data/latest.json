@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "collected_at_utc": "2026-11-12T00:15:15+00:00",
+  "collected_at_utc": "2026-11-12T16:59:36+00:00",
   "sources": {
     "google_skills": {
       "status": "ok",
@@ -77,14 +77,21 @@
         "profile_url": "https://leetcode.com/u/JaswanthRathore/",
         "username": "JaswanthRathore",
         "real_name": "JaswanthRathore",
-        "ranking": 1408593,
+        "ranking": 1409197,
         "accepted_problem_counts": {
-          "all": 126,
-          "easy": 40,
+          "all": 127,
+          "easy": 41,
           "medium": 66,
           "hard": 20
         },
         "recent_accepted_submissions": [
+          {
+            "id": "2194703436",
+            "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+            "title_slug": "longest-strictly-increasing-or-strictly-decreasing-subarray",
+            "timestamp": 1794496659,
+            "status": "Accepted"
+          },
           {
             "id": "2192970069",
             "title": "Climbing Stairs II",
@@ -216,13 +223,6 @@
             "title": "Minimum Swaps to Sort by Digit Sum",
             "title_slug": "minimum-swaps-to-sort-by-digit-sum",
             "timestamp": 1792249657,
-            "status": "Accepted"
-          },
-          {
-            "id": "2173711433",
-            "title": "Subarrays Distinct Element Sum of Squares II",
-            "title_slug": "subarrays-distinct-element-sum-of-squares-ii",
-            "timestamp": 1792142549,
             "status": "Accepted"
           }
         ],
