@@ -598,5 +598,21 @@
       "timestamp": 1794575243,
       "status": "Accepted"
     }
+  },
+  {
+    "date_observed": "2026-11-14",
+    "source": "google_skills",
+    "type": "new_badge_observed",
+    "details": {
+      "badge": "App Building with AppSheet Earned Nov 13, 2026 EST"
+    }
+  },
+  {
+    "date_observed": "2026-11-14",
+    "source": "google_skills",
+    "type": "new_badge_observed",
+    "details": {
+      "badge": "Monitor and Manage Google Cloud Resources Earned Nov 13, 2026 EST"
+    }
   }
 ]
