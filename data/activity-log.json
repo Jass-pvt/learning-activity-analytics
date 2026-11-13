@@ -562,5 +562,41 @@
     "details": {
       "badge": "Arcade Adventure: Cloud Infrastructure & App Scale Earned Nov 12, 2026 EST"
     }
+  },
+  {
+    "date_observed": "2026-11-13",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2195364823",
+      "title": "Unique Number of Occurrences",
+      "title_slug": "unique-number-of-occurrences",
+      "timestamp": 1794582729,
+      "status": "Accepted"
+    }
+  },
+  {
+    "date_observed": "2026-11-13",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2195354469",
+      "title": "Contains Duplicate",
+      "title_slug": "contains-duplicate",
+      "timestamp": 1794581680,
+      "status": "Accepted"
+    }
+  },
+  {
+    "date_observed": "2026-11-13",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2195291422",
+      "title": "Count Non-Decreasing Subarrays After K Operations",
+      "title_slug": "count-non-decreasing-subarrays-after-k-operations",
+      "timestamp": 1794575243,
+      "status": "Accepted"
+    }
   }
 ]
