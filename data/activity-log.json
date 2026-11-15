@@ -614,5 +614,53 @@
     "details": {
       "badge": "Monitor and Manage Google Cloud Resources Earned Nov 13, 2026 EST"
     }
+  },
+  {
+    "date_observed": "2026-11-15",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2196492518",
+      "title": "Ransom Note",
+      "title_slug": "ransom-note",
+      "timestamp": 1794729732,
+      "status": "Accepted"
+    }
+  },
+  {
+    "date_observed": "2026-11-15",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2196479004",
+      "title": "Number of Sub-arrays With Odd Sum",
+      "title_slug": "number-of-sub-arrays-with-odd-sum",
+      "timestamp": 1794728035,
+      "status": "Accepted"
+    }
+  },
+  {
+    "date_observed": "2026-11-15",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2196474942",
+      "title": "First Unique Character in a String",
+      "title_slug": "first-unique-character-in-a-string",
+      "timestamp": 1794727534,
+      "status": "Accepted"
+    }
+  },
+  {
+    "date_observed": "2026-11-15",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2196454668",
+      "title": "Single Number",
+      "title_slug": "single-number",
+      "timestamp": 1794725182,
+      "status": "Accepted"
+    }
   }
 ]
