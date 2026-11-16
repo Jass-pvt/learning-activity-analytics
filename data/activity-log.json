@@ -662,5 +662,29 @@
       "timestamp": 1794725182,
       "status": "Accepted"
     }
+  },
+  {
+    "date_observed": "2026-11-17",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2197164574",
+      "title": "Missing Number",
+      "title_slug": "missing-number",
+      "timestamp": 1794817869,
+      "status": "Accepted"
+    }
+  },
+  {
+    "date_observed": "2026-11-17",
+    "source": "leetcode",
+    "type": "new_accepted_submission_observed",
+    "details": {
+      "id": "2197163986",
+      "title": "Intersection of Two Arrays II",
+      "title_slug": "intersection-of-two-arrays-ii",
+      "timestamp": 1794817794,
+      "status": "Accepted"
+    }
   }
 ]

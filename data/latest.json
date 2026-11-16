@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "collected_at_utc": "2026-11-15T22:37:03+00:00",
+  "collected_at_utc": "2026-11-16T18:48:31+00:00",
   "sources": {
     "google_skills": {
       "status": "ok",
@@ -80,14 +80,28 @@
         "profile_url": "https://leetcode.com/u/JaswanthRathore/",
         "username": "JaswanthRathore",
         "real_name": "JaswanthRathore",
-        "ranking": 1342209,
+        "ranking": 1324262,
         "accepted_problem_counts": {
-          "all": 133,
-          "easy": 45,
+          "all": 135,
+          "easy": 47,
           "medium": 67,
           "hard": 21
         },
         "recent_accepted_submissions": [
+          {
+            "id": "2197164574",
+            "title": "Missing Number",
+            "title_slug": "missing-number",
+            "timestamp": 1794817869,
+            "status": "Accepted"
+          },
+          {
+            "id": "2197163986",
+            "title": "Intersection of Two Arrays II",
+            "title_slug": "intersection-of-two-arrays-ii",
+            "timestamp": 1794817794,
+            "status": "Accepted"
+          },
           {
             "id": "2196492518",
             "title": "Ransom Note",
@@ -212,20 +226,6 @@
             "title": "Count Islands With Total Value Divisible by K",
             "title_slug": "count-islands-with-total-value-divisible-by-k",
             "timestamp": 1793003314,
-            "status": "Accepted"
-          },
-          {
-            "id": "2181242146",
-            "title": "Number of Closed Islands",
-            "title_slug": "number-of-closed-islands",
-            "timestamp": 1792918598,
-            "status": "Accepted"
-          },
-          {
-            "id": "2180164946",
-            "title": "Count Days Spent Together",
-            "title_slug": "count-days-spent-together",
-            "timestamp": 1792819811,
             "status": "Accepted"
           }
         ],
