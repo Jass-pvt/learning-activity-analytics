@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "collected_at_utc": "2026-11-19T00:01:40+00:00",
+  "collected_at_utc": "2026-11-19T17:33:47+00:00",
   "sources": {
     "google_skills": {
       "status": "ok",
@@ -14,6 +14,7 @@
           "Arcade Adventure: Cloud Infrastructure & App Scale Earned Nov 12, 2026 EST",
           "Arcade Adventure: Google Cloud ML APIs Earned Oct 22, 2026 EDT",
           "Arcade Base Camp October 2026 Earned Oct 11, 2026 EDT",
+          "Arcade Simulator: Cloud Infrastructure Engineer Earned Nov 19, 2026 EST",
           "Arcade Simulator: Site Reliability Engineer Earned Oct 13, 2026 EDT",
           "Arcade Trail: Containers & Load Balancing Earned Oct 19, 2026 EDT",
           "Arcade Voyage: Language, Voice, and Multimodal Processing Earned Oct 16, 2026 EDT",
@@ -32,6 +33,7 @@
           "Derive Insights from BigQuery Data Earned Oct 26, 2026 EDT",
           "Develop Your Google Cloud Network Earned Oct 11, 2026 EDT",
           "Digital Transformation with Google Cloud Earned Nov 19, 2025 EST",
+          "Diwali in the Cloud Earned Nov 19, 2026 EST",
           "Encoder-Decoder Architecture Earned Oct 19, 2026 EDT",
           "Engineer Data for Predictive Modeling with BigQuery ML Earned Oct 26, 2026 EDT",
           "Exploring Data Transformation with Google Cloud Earned Nov 28, 2025 EST",
@@ -61,6 +63,7 @@
           "Monitor and Manage Google Cloud Resources Earned Nov 13, 2026 EST",
           "Prompt Design in Agent Platform Earned Oct 19, 2026 EDT",
           "Responsible AI: Applying AI Principles with Google Cloud Earned Oct 19, 2026 EDT",
+          "Secure Software Delivery Earned Nov 19, 2026 EST",
           "Set Up a Google Cloud Network Earned Oct 22, 2026 EDT",
           "Skills Boost Arcade Base Camp October 2025 Earned Oct 29, 2025 EDT",
           "Skills Boost Arcade Trivia October 2025 Week 1 Earned Oct 26, 2025 EDT",
@@ -70,7 +73,7 @@
           "Trick-or-Metric Earned Oct 12, 2026 EDT",
           "Using the Google Cloud Speech API Earned Oct 22, 2026 EDT"
         ],
-        "badge_count_observed": 61,
+        "badge_count_observed": 64,
         "collection_note": "Best-effort public-page extraction; empty badge list means the page did not expose parseable badge labels."
       }
     },
@@ -80,7 +83,7 @@
         "profile_url": "https://leetcode.com/u/JaswanthRathore/",
         "username": "JaswanthRathore",
         "real_name": "JaswanthRathore",
-        "ranking": 1325291,
+        "ranking": 1325778,
         "accepted_problem_counts": {
           "all": 135,
           "easy": 47,

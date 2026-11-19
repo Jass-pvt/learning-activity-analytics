@@ -686,5 +686,29 @@
       "timestamp": 1794817794,
       "status": "Accepted"
     }
+  },
+  {
+    "date_observed": "2026-11-19",
+    "source": "google_skills",
+    "type": "new_badge_observed",
+    "details": {
+      "badge": "Arcade Simulator: Cloud Infrastructure Engineer Earned Nov 19, 2026 EST"
+    }
+  },
+  {
+    "date_observed": "2026-11-19",
+    "source": "google_skills",
+    "type": "new_badge_observed",
+    "details": {
+      "badge": "Diwali in the Cloud Earned Nov 19, 2026 EST"
+    }
+  },
+  {
+    "date_observed": "2026-11-19",
+    "source": "google_skills",
+    "type": "new_badge_observed",
+    "details": {
+      "badge": "Secure Software Delivery Earned Nov 19, 2026 EST"
+    }
   }
 ]
