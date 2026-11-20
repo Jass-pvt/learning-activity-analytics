@@ -710,5 +710,13 @@
     "details": {
       "badge": "Secure Software Delivery Earned Nov 19, 2026 EST"
     }
+  },
+  {
+    "date_observed": "2026-11-20",
+    "source": "google_skills",
+    "type": "new_badge_observed",
+    "details": {
+      "badge": "Arcade Base Camp November 2026 Earned Nov 20, 2026 EST"
+    }
   }
 ]
