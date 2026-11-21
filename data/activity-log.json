@@ -726,5 +726,21 @@
     "details": {
       "badge": "Mitigate Threats and Vulnerabilities with Security Command Center Earned Nov 21, 2026 EST"
     }
+  },
+  {
+    "date_observed": "2026-11-22",
+    "source": "google_skills",
+    "type": "new_badge_observed",
+    "details": {
+      "badge": "Arcade Voyage: Python Apps & Data Analytics Earned Nov 21, 2026 EST"
+    }
+  },
+  {
+    "date_observed": "2026-11-22",
+    "source": "google_skills",
+    "type": "new_badge_observed",
+    "details": {
+      "badge": "Optimize Costs for Google Kubernetes Engine Earned Nov 21, 2026 EST"
+    }
   }
 ]
