@@ -718,5 +718,13 @@
     "details": {
       "badge": "Arcade Base Camp November 2026 Earned Nov 20, 2026 EST"
     }
+  },
+  {
+    "date_observed": "2026-11-21",
+    "source": "google_skills",
+    "type": "new_badge_observed",
+    "details": {
+      "badge": "Mitigate Threats and Vulnerabilities with Security Command Center Earned Nov 21, 2026 EST"
+    }
   }
 ]
