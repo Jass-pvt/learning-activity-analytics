@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "collected_at_utc": "2026-11-21T22:54:31+00:00",
+  "collected_at_utc": "2026-11-22T16:33:09+00:00",
   "sources": {
     "google_skills": {
       "status": "ok",
@@ -17,6 +17,7 @@
           "Arcade Base Camp October 2026 Earned Oct 11, 2026 EDT",
           "Arcade Simulator: Cloud Infrastructure Engineer Earned Nov 19, 2026 EST",
           "Arcade Simulator: Site Reliability Engineer Earned Oct 13, 2026 EDT",
+          "Arcade Trail: Cloud Security & GKE Cost Control Earned Nov 22, 2026 EST",
           "Arcade Trail: Containers & Load Balancing Earned Oct 19, 2026 EDT",
           "Arcade Voyage: Language, Voice, and Multimodal Processing Earned Oct 16, 2026 EDT",
           "Arcade Voyage: Python Apps & Data Analytics Earned Nov 21, 2026 EST",
@@ -77,7 +78,7 @@
           "Trick-or-Metric Earned Oct 12, 2026 EDT",
           "Using the Google Cloud Speech API Earned Oct 22, 2026 EDT"
         ],
-        "badge_count_observed": 68,
+        "badge_count_observed": 69,
         "collection_note": "Best-effort public-page extraction; empty badge list means the page did not expose parseable badge labels."
       }
     },
@@ -87,7 +88,7 @@
         "profile_url": "https://leetcode.com/u/JaswanthRathore/",
         "username": "JaswanthRathore",
         "real_name": "JaswanthRathore",
-        "ranking": 1326725,
+        "ranking": 1327300,
         "accepted_problem_counts": {
           "all": 135,
           "easy": 47,

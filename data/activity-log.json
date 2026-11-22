@@ -742,5 +742,13 @@
     "details": {
       "badge": "Optimize Costs for Google Kubernetes Engine Earned Nov 21, 2026 EST"
     }
+  },
+  {
+    "date_observed": "2026-11-22",
+    "source": "google_skills",
+    "type": "new_badge_observed",
+    "details": {
+      "badge": "Arcade Trail: Cloud Security & GKE Cost Control Earned Nov 22, 2026 EST"
+    }
   }
 ]
