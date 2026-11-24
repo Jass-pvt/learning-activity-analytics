@@ -750,5 +750,13 @@
     "details": {
       "badge": "Arcade Trail: Cloud Security & GKE Cost Control Earned Nov 22, 2026 EST"
     }
+  },
+  {
+    "date_observed": "2026-11-25",
+    "source": "google_skills",
+    "type": "new_badge_observed",
+    "details": {
+      "badge": "Implement Cloud Collaboration and Productivity Workflows Earned Nov 24, 2026 EST"
+    }
   }
 ]

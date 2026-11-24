@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "collected_at_utc": "2026-11-24T03:53:18+00:00",
+  "collected_at_utc": "2026-11-24T19:38:55+00:00",
   "sources": {
     "google_skills": {
       "status": "ok",
@@ -47,6 +47,7 @@
           "Google Skills Arcade Trivia November 2025 Week 2 Earned Nov 5, 2025 EST",
           "Google Skills Arcade Trivia November 2025 Week 3 Earned Nov 6, 2025 EST",
           "Google Skills Arcade Trivia November 2025 Week 4 Earned Nov 6, 2025 EST",
+          "Implement Cloud Collaboration and Productivity Workflows Earned Nov 24, 2026 EST",
           "Implement DevOps Workflows in Google Cloud Earned Oct 22, 2026 EDT",
           "Implement Event-Driven Messaging and Automation Workflows Earned Oct 22, 2026 EDT",
           "Implement Sensitive Data Protection on Google Cloud Earned Nov 28, 2025 EST",
@@ -78,7 +79,7 @@
           "Trick-or-Metric Earned Oct 12, 2026 EDT",
           "Using the Google Cloud Speech API Earned Oct 22, 2026 EDT"
         ],
-        "badge_count_observed": 69,
+        "badge_count_observed": 70,
         "collection_note": "Best-effort public-page extraction; empty badge list means the page did not expose parseable badge labels."
       }
     },
@@ -88,7 +89,7 @@
         "profile_url": "https://leetcode.com/u/JaswanthRathore/",
         "username": "JaswanthRathore",
         "real_name": "JaswanthRathore",
-        "ranking": 1327891,
+        "ranking": 1328452,
         "accepted_problem_counts": {
           "all": 135,
           "easy": 47,
